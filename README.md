@@ -6,6 +6,6 @@ Question 2. [Smallest sub array with a given sum](./sliding_window/smallestSubAr
 
 Question 3. [Longest sub array with k distinct elements](./sliding_window/smallestSubArray.cpp)
 
-Question 4. [Maximum sum of sub array](./bible/maximumSubSubArray.cpp)
+Question 4. [Maximum sum of sub array](./bible/maximumSumSubArray_bible.cpp)
 
-Question 5. [Longest consecutive number sub array](./bible/maximumSubSubArray.cpp)
+Question 5. [Longest consecutive number sub array](./bible/longestConsecutiveNumberSubarray_bible.cpp)
