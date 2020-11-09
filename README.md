@@ -1,6 +1,6 @@
 ### Array
 
-[File] (./sliding_window/maxSumOfFixedSize.cpp) Question 1. Find the maximum sum for a sub array of size k.
+[File](./sliding_window/maxSumOfFixedSize.cpp) Question 1. Find the maximum sum for a sub array of size k.
 
 Question 2. Smallest sub array with a given sum ./sliding_window/smallestSubArray.cpp
 
