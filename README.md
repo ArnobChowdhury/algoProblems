@@ -13,3 +13,11 @@ Question 5. [Longest consecutive number sub array](./bible/longestConsecutiveNum
 Question 6. [Maximum Sum SubMatrix](./bible/maxSumSubMatrix_bible.cpp)
 
 Question 7. [Maximum Size Square SubMatrix With All 1s](./bible/maxSizeSquareSubMatrixWithAllOnes.cpp)
+
+Question 8. [Binary Search](./bible/binarySearch_bible.cpp)
+
+Question 9. [Minimum Capacity Transportation](./bible/minCapacityTransportation.cpp)
+
+Question 10. [Maximum Number of Groups](./bible/maxNumberOfGroups_bible.cpp)
+
+Question 11. [Maximum Special Distance](./bible/maxSpecialDistance_bible.cpp)
