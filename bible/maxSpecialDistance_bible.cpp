@@ -10,16 +10,9 @@ bool isValidDist(vector<pair<int, int>> points, int Dist)
     int p = -1, minY = 1000000, maxY = -1000000;
     for (int j = 0; j < n; j++)
     {
-        int pointsPPlusOne = points[p + 1].first;
-        int pointsJay = points[j].first;
-
         while (p + 1 < j && points[j].first - points[p + 1].first >= Dist)
         {
             p++;
-
-            // for debugging;
-            pointsPPlusOne = points[p + 1].first;
-            // for degbugging;
 
             minY = min(minY, points[p].second);
             maxY = max(maxY, points[p].second);
